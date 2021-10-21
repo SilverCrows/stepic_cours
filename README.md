@@ -1,5 +1,5 @@
-# stepik-selenium-course
+## Assignment for chapter 3
 
-  Это репозиторий для хранения домашних робот по курсу на степике, https://stepik.org/course/575/
-
-    This repo contains solutions for the course assignments.
+- Clone the repo `git clone`
+- Change directory to pytest_shop `cd stepik-selenium-course/pytest_shop`
+- Run test `pytest --language=es test_items.py`
